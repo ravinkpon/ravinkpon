@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ravinkpon
-- 👀 I’m interested in Ai
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning AI & ML
 - 💞️ I’m looking to collaborate on ML project
 - 📫 How to reach me ... https://www.linkedin.com/in/ravinkpon/
